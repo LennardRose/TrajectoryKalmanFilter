@@ -1,4 +1,4 @@
-### Kalman Filter to track and predict the Trajectory of a thrown Ball
+### Kalman Filter to track and predict the Trajectory of a thrown Ball. Part of the Reasoning and Decision Making under Uncertainty Portfolio.
 
 ![](Report/KalmanFilter/0001.png?raw=true)
 ![](Report/KalmanFilter/0002.png?raw=true)
